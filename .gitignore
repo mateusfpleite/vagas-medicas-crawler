@@ -1,0 +1,28 @@
+# Crawled data (HTML + JSON files)
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv/
+
+# Local tooling / caches
+.pytest_cache/
+.claude/
+
+# Frontend lives in its own repo (github.com/mateusfpleite/vagas-medicas)
+frontend/
+
+# DB backups & dumps
+backup/
+*.sql
+
+# Personal / scratch files
+cover_letter_bellroy.md
+Screenshot*.png

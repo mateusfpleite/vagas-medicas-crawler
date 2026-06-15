@@ -1,0 +1,200 @@
+{
+  "success": true,
+  "data": {
+    "listVagas": [
+      {
+        "Idf_Vaga": 5689973,
+        "Title": "Médico",
+        "City": "Simões Filho",
+        "State": "BA",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-SimoesFilho-BA/Medico/5689973",
+        "Row": 1
+      },
+      {
+        "Idf_Vaga": 5679283,
+        "Title": "médico",
+        "City": "Campo Grande",
+        "State": "AL",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-CampoGrande-AL/medico/5679283",
+        "Row": 2
+      },
+      {
+        "Idf_Vaga": 5670109,
+        "Title": "Médico",
+        "City": "Cruz",
+        "State": "CE",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Cruz-CE/Medico/5670109",
+        "Row": 3
+      },
+      {
+        "Idf_Vaga": 5669748,
+        "Title": "Médico",
+        "City": "Cruz",
+        "State": "CE",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Cruz-CE/Medico/5669748",
+        "Row": 4
+      },
+      {
+        "Idf_Vaga": 5669638,
+        "Title": "Médico",
+        "City": "Igarassu",
+        "State": "PE",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Igarassu-PE/Medico/5669638",
+        "Row": 5
+      },
+      {
+        "Idf_Vaga": 5665338,
+        "Title": "Médico",
+        "City": "Cruz",
+        "State": "CE",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Cruz-CE/Medico/5665338",
+        "Row": 6
+      },
+      {
+        "Idf_Vaga": 5665298,
+        "Title": "Médico",
+        "City": "Campinas",
+        "State": "SP",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Campinas-SP/Medico/5665298",
+        "Row": 7
+      },
+      {
+        "Idf_Vaga": 5660053,
+        "Title": "Médico",
+        "City": "Cruz",
+        "State": "CE",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Cruz-CE/Medico/5660053",
+        "Row": 8
+      },
+      {
+        "Idf_Vaga": 5659935,
+        "Title": "Médico",
+        "City": "Cruz",
+        "State": "CE",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Cruz-CE/Medico/5659935",
+        "Row": 9
+      },
+      {
+        "Idf_Vaga": 5658897,
+        "Title": "Médico",
+        "City": "Goiânia",
+        "State": "GO",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Goiania-GO/Medico/5658897",
+        "Row": 10
+      },
+      {
+        "Idf_Vaga": 5646832,
+        "Title": "Médico",
+        "City": "Salvador",
+        "State": "BA",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Salvador-BA/Medico/5646832",
+        "Row": 11
+      },
+      {
+        "Idf_Vaga": 5644264,
+        "Title": "Médico",
+        "City": "Dias D'Ávila",
+        "State": "BA",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-DiasDAvila-BA/Medico/5644264",
+        "Row": 12
+      },
+      {
+        "Idf_Vaga": 5643363,
+        "Title": "Médico",
+        "City": "Dias D'Ávila",
+        "State": "BA",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-DiasDAvila-BA/Medico/5643363",
+        "Row": 13
+      },
+      {
+        "Idf_Vaga": 5639868,
+        "Title": "Médico",
+        "City": "Dias D'Ávila",
+        "State": "BA",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-DiasDAvila-BA/Medico/5639868",
+        "Row": 14
+      },
+      {
+        "Idf_Vaga": 5630823,
+        "Title": "Médico",
+        "City": "Vila Velha",
+        "State": "ES",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-VilaVelha-ES/Medico/5630823",
+        "Row": 15
+      },
+      {
+        "Idf_Vaga": 5612798,
+        "Title": "Médico",
+        "City": "Itajaí",
+        "State": "SC",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Itajai-SC/Medico/5612798",
+        "Row": 16
+      },
+      {
+        "Idf_Vaga": 5609264,
+        "Title": "Médico",
+        "City": "Rio de Janeiro",
+        "State": "RJ",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-RiodeJaneiro-RJ/Medico/5609264",
+        "Row": 17
+      },
+      {
+        "Idf_Vaga": 5608856,
+        "Title": "Médico",
+        "City": "Barra",
+        "State": "BA",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-Barra-BA/Medico/5608856",
+        "Row": 18
+      },
+      {
+        "Idf_Vaga": 5606566,
+        "Title": "Médico",
+        "City": "São Paulo",
+        "State": "SP",
+        "Description": "sine",
+        "Area": "Saúde",
+        "UrlJob": "/vaga-de-emprego-na-area-Saude-em-SaoPaulo-SP/Medico/5606566",
+        "Row": 19
+      }
+    ],
+    "pageNumber": 3,
+    "flowBne": true,
+    "cacheKey": "filterKey:1ff10e1a-72c1-47aa-9afe-9afa86ac3cb2"
+  }
+}

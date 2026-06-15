@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vagas-medicas"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "playwright>=1.49",
+    "playwright-stealth>=1.0.6",
+    "beautifulsoup4>=4.12",
+    "httpx>=0.28",
+    "psycopg[binary]>=3.2",
+    "lxml>=5.3",
+    "google-genai>=1.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.25",
+]
+
+[project.scripts]
+vagas = "vagas.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+markers = [
+    "integration: tests that hit external APIs (Gemini, database, etc.)",
+]
